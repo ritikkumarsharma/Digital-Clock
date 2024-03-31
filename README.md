@@ -1,2 +1,2 @@
 # Digital Clock
-This is a beautiful flower design by python.
+This is Digital clock design by python.
